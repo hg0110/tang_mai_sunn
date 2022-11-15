@@ -19,8 +19,8 @@ body {
     /* background-image: -webkit-radial-gradient(#374566, #010203);
     background-image: -moz-radial-gradient(#374566, #010203);
     background-image: -o-radial-gradient(#374566, #010203);
-    background-image: radial-gradient(#374566, #010203);
-    font-family: 'Lobster', cursive; */
+    background-image: radial-gradient(#374566, #010203);*/
+    font-family: 'Lobster', cursive; 
 }
 span {
     text-transform: uppercase;
